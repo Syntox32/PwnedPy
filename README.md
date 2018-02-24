@@ -111,3 +111,7 @@ except Exception as e:
 The script has only been tested with `Python 3.6.4`, it should work down to `Python 3.4.x`.
 
 `requests` is the only other requirement. Install with `pip install -r Requirements.txt`, or `pip install requests`.
+
+## License
+
+The code is licensed under an MIT license.
